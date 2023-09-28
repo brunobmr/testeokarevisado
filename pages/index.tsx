@@ -25,7 +25,6 @@ export default function Home() {
       <IndexMain>
         <LandingHome />
         <SubpagesSection />
-        <Prontos />
         <OurWorkingSection />
         <Footer />
       </IndexMain>
