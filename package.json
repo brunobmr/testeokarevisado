@@ -1,0 +1,42 @@
+{
+  "name": "okalev",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.5",
+    "@tanstack/react-query": "^4.32.1",
+    "@types/node": "20.4.5",
+    "@types/react": "18.2.18",
+    "@types/react-dom": "18.2.7",
+    "axios": "^1.4.0",
+    "babel-plugin-styled-components": "^2.1.4",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-player": "^2.12.0",
+    "react-slick": "^0.29.0",
+    "screenfull": "^6.0.2",
+    "sharp": "^0.32.4",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.0.5",
+    "stylelint": "^15.10.2",
+    "swiper": "^10.2.0",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/react-slick": "^0.23.10",
+    "postcss-styled-syntax": "^0.4.0",
+    "stylelint-config-standard": "^34.0.0"
+  }
+}
